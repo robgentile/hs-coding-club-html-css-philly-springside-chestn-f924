@@ -1,1 +1,62 @@
 /*Write your custom CSS here!!!*/
+header{
+  background-color: #191970;
+}
+#portfolio{
+  background-color: white;
+}
+.navbar{
+  background-color: #00BFFF;
+}
+#about{
+  background-color: gold;
+}
+#contact{
+  background-color:  #A60047;
+}
+p{
+  color: deepskyblue;
+}
+h2{
+  color: deepskyblue;
+}
+h3{
+  color: deepskyblue;
+}
+header hr.star-light{
+  border-color: deepskyblue;
+}
+header hr.star-light:after{
+  color: deepskyblue;
+  background-color: #191970;
+}
+#contact hr.star-primary{
+  border-color: deepskyblue;
+}
+#contact hr.star-primary:after{
+  color: deepskyblue;
+  background-color: #A60047;
+}
+#portfolio hr.star-primary{
+  border-color: deepskyblue;
+}
+#portfolio hr.star-primary:after{
+  color: deepskyblue;
+  background-color: white;
+}
+#about hr.star-light{
+  border-color: deepskyblue;
+}
+#about hr.star-light:after{
+  color: deepskyblue;
+  background-color: gold;
+}
+footer.footer-below{
+  background-color: deepskyblue;
+}
+.name{
+  color: deepskyblue;
+}
+.skills{
+  color:deepskyblue;
+}
